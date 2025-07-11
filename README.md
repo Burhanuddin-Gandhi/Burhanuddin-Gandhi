@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Burhanuddin-Gandhi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning FrontEnd Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Burhanuddin-Gandhi/Burhanuddin-Gandhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
