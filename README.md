@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Burhanuddin-Gandhi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning FrontEnd Web Development
+- 🌱 I’m currently learning M.E.R.N
+- 
 
 
 <!---
