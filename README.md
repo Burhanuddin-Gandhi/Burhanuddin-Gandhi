@@ -1,9 +1,9 @@
--I’m Burhanuddin Gandhi, a pre-final year Computer Science student.
+## Burhanuddin Gandhi
 
--Full-Stack Developer (MERN) working on practical web applications.
+🎓 Pre-final year Computer Science student  
+💻 Full-Stack Developer (MERN)  
 
--Interested in building clean, functional, and user-focused solutions.
-
+Building clean, functional, and user-focused web applications.
 
 
 <!---
