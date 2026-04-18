@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Burhanuddin-Gandhi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning M.E.R.N
-- 
+-I’m Burhanuddin Gandhi, a pre-final year Computer Science student.
+-Full-Stack Developer (MERN) working on practical web applications.
+-Interested in building clean, functional, and user-focused solutions.
+
 
 
 <!---
