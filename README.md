@@ -8,7 +8,7 @@ I ship features end-to-end. I think about real problems—cost optimization, sys
 
 ---
 
-## 🛠️ **Tech Stack**
+##  **Tech Stack**
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -39,7 +39,7 @@ I ship features end-to-end. I think about real problems—cost optimization, sys
 
 ---
 
-## 🚀 **Featured Projects**
+##  **Featured Projects**
 
 ### **SEOScribe** - AI-Powered SEO Analysis & Automation
 - 3-tier resilient web scraping with intelligent SPA detection (99%+ reliability)
@@ -66,7 +66,7 @@ I ship features end-to-end. I think about real problems—cost optimization, sys
 
 ---
 
-## 📊 **About Me**
+##  **About Me**
 
 ✅ **Final year B.Tech CS & Design** | CGPA: 9.02/10  
 ✅ **3 Production Projects Shipped** with live deployments  
@@ -77,20 +77,26 @@ I ship features end-to-end. I think about real problems—cost optimization, sys
 
 ---
 
-## 🎯 **Currently**
+##  **Currently**
 
-💼 **Open to opportunities** - Full-Stack Developer / Fresher roles  
-📚 Learning Next.js + TypeScript for production-scale apps  
-🔨 Building solutions that solve real problems
-
----
-
-## 📬 **Let's Connect**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:burhanuddingandhi7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burhanuddin-gandhi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Burhanuddin-Gandhi)
+ **Open to opportunities** - Full-Stack Developer / Fresher roles  
+ Learning Next.js + TypeScript for production-scale apps  
+ Building solutions that solve real problems
 
 ---
 
-**"Code that ships > Code that's perfect"**
+##  **Let's Connect**
+
+<a href="https://github.com/Burhanuddin-Gandhi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/burhanuddin-gandhi">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:burhanuddingandhi7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+---
+
+**"Shipping production-ready code that actually works"**
